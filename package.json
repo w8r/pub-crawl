@@ -1,0 +1,15 @@
+{
+  "name": "pub-crawl",
+  "version": "1.0.0",
+  "description": "Longest pub crawl in the world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "geojson-flatten": "^0.2.1",
+    "polyline": "^0.2.0"
+  }
+}
